@@ -5,15 +5,21 @@ lang: fr
 title: Pourquoi Open Data?
 ---
 
-[Open data](/glossary/fr/terms/open-data/), spécialement les données publiques ouvertes, constitue une énorme ressource encore trop peu exploitée. De nombreuses personnes et collectivités collectent une large variété de données de divers types, dans le but d'améliorer leur fonctionnement et la façon dont ils remplissent leurs missions. Les gouvernements en particulier
-Les usages par les gouvernements sont particulièrement significatifs à cet égard , tant en raison de la quantité et de la qualité centrale des données qu'ils recueillent, mais aussi parce que la plupart de ces données collectées par les gouvernements sont des données publiques de par la loi, et qu'elles peuvent donc à ce titre être ouvertes et mises à disposition de tiers. 
+[Open data](/glossary/fr/terms/open-data/), spécialement les données publiques ouvertes, constitue une énorme ressource encore trop peu exploitée. De nombreuses personnes et collectivités collectent une large variété de données de divers types, dans le but d'améliorer leur fonctionnement et la façon dont ils remplissent leurs missions. Les usages par les gouvernements sont particulièrement significatifs à cet égard , tant en raison de la quantité et de la qualité centrale des données qu'ils recueillent, mais aussi parce que la plupart de ces données collectées par les gouvernements sont des données publiques de par la loi, et qu'elles peuvent donc à ce titre être ouvertes et mises à disposition de tiers. 
 Pourquoi cela représente-t-il un intérêt ?
 
 Il y a de nombreux domaines où nous pouvons nous attendre à ce que les données ouvertes soient de valeur, et où existent déjà des exemples. Il y a aussi beaucoup de groupes de personnes différents et d'organisations qui peuvent bénéficier de la disponibilité de données ouvertes, y compris le gouvernement lui-même. Dans le même temps, il est impossible de prédire avec précision comment et où la valeur sera créée. La nature de l'innovation et des nouvelles choses, c'est qu'elles vont provenir d'endroits improbables.
 
 Il est déjà possible de désigner un grand nombre de domaines où les données gouvernementales ouvertes créent de la valeur, et il y en a probablement plus. Quelques-un de ces domaines sont:
 
--   Transparence and contrôle de la democratie \* Participation \* Auto-émancipation \* Nouveaux produits et services privés, améliorés \* Innovation \* Efficacité améliorée des services publics \* Mesure de l'impact des politiques publiques \* De nouvelles connaissances découlant de sources de données combinées et des modèles dans des volumes de données importants
+*  Transparence et contrôle de la démocratie
+* Participation 
+* Auto-émancipation
+* Nouveaux produits et services privés, améliorés
+* Innovation
+* Efficacité améliorée des services publics
+* Mesure de l'impact des politiques publiques
+* De nouvelles connaissances découlant de sources de données combinées et des modèles dans des volumes de données importants
 
 Des exemples existent dans la plupart de ces domaines.
 
